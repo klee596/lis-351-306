@@ -55,7 +55,7 @@ a:hover { text-decoration: underline; }
 
 
 .brand .dot {
-  color: #3a88a8; /* Light blue accent color */
+  color: #3a88a8; 
 }
 
 
@@ -206,14 +206,6 @@ a:hover { text-decoration: underline; }
   text-transform: uppercase;
 }
 
-.section-lede {
-  text-align: center;
-  max-width: 680px;
-  margin: 10px auto 22px;
-  color: #666;
-  font-size: 13px;
-}
-
 .media {
   background: #eaeaea;
   border: 1px solid #3d0d0d;
@@ -246,11 +238,11 @@ a:hover { text-decoration: underline; }
 }
 
 .featured-box {
-    background-color: #fffbf5; /* Lighter cream for the box */
-    border: 2px solid #b41f5879; /* Soft border */
-    border-radius: 12px; /* Rounded corners */
+    background-color: #fffbf5; 
+    border: 2px solid #b41f5879; 
+    border-radius: 12px; 
     padding: 40px 30px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.05); /* Subtle shadow */
+    box-shadow: 0 8px 20px rgba(0,0,0,0.05); 
 }
 
 .featured-grid {
@@ -279,7 +271,7 @@ a:hover { text-decoration: underline; }
     line-height: 1.6;
 }
 .fashion-text {
-    color: #6b0835; /
+    color: #6b0835;
 }
 
 
@@ -343,7 +335,7 @@ a:hover { text-decoration: underline; }
   background-image: url(images/glitter.jpg);
 }
 .img-b {
-  background-image: url(images/2026\ the\ new\ 2016.jpeg);
+  background-image: url(images/2026thenew2016.jpeg);
 }
 
 /* ===== CTA ===== */
@@ -396,7 +388,7 @@ a:hover { text-decoration: underline; }
   gap: 28px;
 }
 
-.footer-col h4 {
+.footer-col h3 {
   margin: 0 0 8px;
   font-size: 12px;
   text-transform: uppercase;
